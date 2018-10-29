@@ -1,0 +1,18 @@
+#data/flats.yml
+
+lucbarika:
+  name: "Luc Anthony's home"
+  description: "Charming room in Montreal"
+  city_name: "Montreal, Canada"
+  city_slug: "Montreal"
+  wifi: false
+  rating: 4
+
+Jasperbrumter:
+  name: "Jasper's home"
+  description: "Small flat in Paris"
+  city_name: "Paris, France"
+  city_slug: "London"
+  wifi: true
+  rating: 3
+
